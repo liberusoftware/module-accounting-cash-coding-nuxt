@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-cash-coding-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-cash-coding",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-cash-coding-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/cash-coding.md",
+  "presentationPlan": "projects/accounting/nuxt/cash-coding.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
